@@ -3,7 +3,7 @@ node_modules/
 .tox
 .coverage
 __pycache__
-*.pyc
+*.pyc 
 *.swp
 k8s/templates/
 cloudbuild-*.yaml
